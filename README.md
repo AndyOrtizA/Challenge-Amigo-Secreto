@@ -16,7 +16,7 @@ El desafío consiste en permitir a los usuarios agregar nombres a una lista y lu
 ## Tecnologías utilizadas
 
 - **HTML** → Estructura del formulario y la lista.
-- **CSS** → (Opcional, si deseas agregar estilos personalizados).
+- **CSS** → Estilo de la app.
 - **JavaScript** → Manipulación del DOM y lógica del sorteo.
 
 ## Cómo funciona
